@@ -10,4 +10,4 @@ import { FComponent } from '../fcomponent/fcomponent.component';
     FComponent
   ],
   imports: [
-    BrowserModule,
+    Browser module   ],
